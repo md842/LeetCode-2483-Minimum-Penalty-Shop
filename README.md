@@ -6,7 +6,7 @@ This solution beats 80.18% of users in runtime (24 ms) and 86.10% of users in me
 ## Running
 Navigate to the directory containing the extracted implementation, then simply run `make` with the included Makefile.
 ```
-cd LeetCode-2483-Minimum-Penalty-Shop
+cd LeetCode-2483-Minimum-Penalty-Shop-CPP
 make
 ```
 
@@ -30,7 +30,7 @@ customers: NNNNN         OK        Expected 0, got 0
 Navigate to the directory containing the extracted implementation, then simply run `make clean` with the included Makefile.
 
 ```
-cd LeetCode-2483-Minimum-Penalty-Shop
+cd LeetCode-2483-Minimum-Penalty-Shop-CPP
 make clean
 ```
 
